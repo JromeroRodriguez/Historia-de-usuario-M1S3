@@ -108,8 +108,10 @@ The English-translated code is provided separately from this README to follow be
 
 ---
 ## Install
-
+```
 git clone https://github.com/JromeroRodriguez/Historia-de-usuario-M1S3.git
+```
+
 
 ---
 
