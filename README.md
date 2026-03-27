@@ -114,6 +114,10 @@ git clone https://github.com/JromeroRodriguez/Historia-de-usuario-M1S3.git
 
 
 ---
+FLOWCHART
+<img width="1360" height="2840" alt="diagrama_flujo_inventario_EN" src="https://github.com/user-attachments/assets/b625bcad-faf9-4630-881d-5c5c90695175" />
+
+
 
 ## ✅ Final Status
 
